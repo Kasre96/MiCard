@@ -5,7 +5,7 @@ A personal profile application with personal accounts details and links as well 
 ![Screenshot](https://github.com/Kasre96/MiCard/blob/master/screenshots/profile_screenshot.jpeg)
 
 ## Developer
-[Isaac Mutie](github.com/Kasre96)
+[Isaac Mutie](http://github.com/Kasre96)
 
 ## Getting started
 [Flutter](fluter.io)
